@@ -1,0 +1,8 @@
+{
+  "name": "Techbion Software Systems",
+  "description": "A high-end corporate website for Techbion, a leading IT workforce management and software services provider, inspired by global IT consulting standards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
